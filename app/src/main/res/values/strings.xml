@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mouloud_kevin_corentin</string>
+    <string name="add_module">Ajouter un Module</string>
+    <string name="del_module">Supprimer un Module</string>
+    <string name="list_module">Lister les Modules</string>
+    <string name="list_sigle">Lister les sigles</string>
+</resources>
